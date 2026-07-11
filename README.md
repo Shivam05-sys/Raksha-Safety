@@ -1,3 +1,6 @@
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src= />
+</div>
 # Women Safety & Emergency Assistance Platform
 
 A full-stack MERN-based web application designed to provide immediate emergency assistance for women through one-click SOS alerts, real-time location sharing, volunteer coordination, and incident tracking.
